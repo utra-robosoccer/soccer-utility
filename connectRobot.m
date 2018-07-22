@@ -5,7 +5,7 @@ localIp = '100.64.44.50';
 gazeboIp = '100.64.39.81';
 robotIp = '172.20.10.4';
 
-useRobot = 0;
+useRobot = 0; 
 
 if useRobot
     setenv('ROS_IP', localIp)
