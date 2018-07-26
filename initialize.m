@@ -4,3 +4,4 @@ addpath('soccer-control')
 addpath('soccer-vision')
 addpath('soccer-utility')
 addpath('soccer-strategy')
+savepath
