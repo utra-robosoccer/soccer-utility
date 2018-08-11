@@ -1,9 +1,9 @@
 % IP Addresses for robots
 rosshutdown;
 
-localIp = '100.64.33.214';
-gazeboIp = '100.64.40.228';
-robotIp = '172.20.10.4';
+localIp = '100.64.41.3';
+gazeboIp = '100.64.38.143';
+robotIp = '100.64.41.3';
 
 useRobot = 0; 
 
