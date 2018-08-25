@@ -5,5 +5,5 @@ addpath('soccer-vision')
 addpath('soccer-utility')
 addpath('soccer-strategy')
 addpath('soccer_description')
-rosgenmsg('soccer_msgs') % Follow the instructions after here
+rosgenmsg('soccer-utility/soccer_msgs') % Follow the instructions after here
 savepath
