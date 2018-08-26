@@ -1,4 +1,4 @@
-% Initial setup
+% Initial setup (add existing path, rather than change directory)
 addpath('soccer-rl')
 addpath('soccer-control')
 addpath('soccer-vision')

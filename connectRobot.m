@@ -3,7 +3,7 @@ rosshutdown;
 
 localIp = '100.64.47.75';
 gazeboIp = '100.64.46.29';
-robotIp = '100.64.34.246';
+robotIp = '100.64.36.165';
 
 useRobot = 1; 
 
